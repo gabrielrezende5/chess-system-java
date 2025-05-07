@@ -1,6 +1,6 @@
 package chess;
 
-import java.awt.Color;
+import chess.Color;
 
 import boardgame.Board;
 import boardgame.Piece;
